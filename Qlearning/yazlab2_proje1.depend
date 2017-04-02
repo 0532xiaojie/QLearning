@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1489699089 source:c:\users\fatma\desktop\yazlab2_proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<math.h>
+
+1488985028 source:f:\yazlab2_proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1489415229 source:c:\users\fatma\desktop\masaustu\yazlab2_proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<math.h>
+
+1489699089 source:c:\users\user\desktop\yazlab2_proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<math.h>
+
